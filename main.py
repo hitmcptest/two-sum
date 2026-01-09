@@ -6,3 +6,4 @@ def twoSum(nums: List[int], target: int) -> List[int]:
             if nums[i]+nums[j]==target:
                 return [i,j]
     return
+////////////////////
